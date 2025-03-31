@@ -8,6 +8,7 @@ This project integrates computer vision and deep learning techniques to mitigate
 </p>
 
 <p align="center">
-  <b>Input Video</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Output Video</b>
+  <b>Input Video</b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <b>Output Video</b>
 </p>
+
 
